@@ -30,7 +30,7 @@ Building fast, scalable web & mobile apps with React, React Native, TypeScript, 
 <div style="max-width: 800px;">
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,figma,tailwind,postgresql,supabase,git,github" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,figma,tailwind,postgresql,git,github,docker,vscode" />
 </p>
 
 | Category | - |
