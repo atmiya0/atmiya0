@@ -2,9 +2,7 @@
 
 ### Atmiya Jadvani 👋
 
-**Frontend Software Engineer & Designer**
-
-**Toronto, ON** | [Portfolio](https://www.atmiya.ca/)
+**Frontend Software Engineer & Designer** | **Toronto, ON** | 🌐 [Portfolio](https://www.atmiya.ca/)
 
 Building fast, scalable web & mobile apps with React, React Native, TypeScript, and modern design. Currently at York University, seeking full-time opportunities starting January 2026.
 
@@ -14,24 +12,14 @@ Building fast, scalable web & mobile apps with React, React Native, TypeScript, 
 - I communicate clearly, drive my team to the finish line.
 
 <div align="left" style="margin: 15px 0; display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
-  <a href="mailto:atmiyajadvani09@gmail.com" style="
-    background: linear-gradient(135deg, #10b981 0%, #059669 100%);
-    color: white;
-    padding: 10px 20px;
-    border-radius: 20px;
-    text-decoration: none;
-    font-weight: 600;
-    display: inline-block;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-    transition: all 0.3s ease;
-  ">
-    Contact Me
+  <a href="mailto:atmiyajadvani09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/atmiyajadvani/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/atmiya0">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://twitter.com/atmiyajadvani">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
@@ -113,12 +101,12 @@ Building fast, scalable web & mobile apps with React, React Native, TypeScript, 
 
 | Category | Courses |
 |:---------|:--------|
-| **Core Computer Science** | Fundamentals of Data Structures • Design and Analysis of Algorithms • Computer Organization • Introduction to the Theory of Computation |
-| **Programming** | Introduction to Computer Science and Python Programming • Programming for Mobile Computing • Advanced Object Oriented Programming • Software Tools • Introduction to Database Systems • Software Design |
-| **Mathematics** | Applied Calculus I • Applied Calculus II • Applied Linear Algebra • Discrete Mathematics for Computer Science • Introduction to Logic for Computer Science • Elementary Probability |
-| **AI & Advanced Topics** | Introduction to AI and Logic Programming • CS50's Introduction to Artificial Intelligence with Python • CS50's Introduction to Computer Science |
-| **Design & HCI** | User Interfaces • Human-Computer Interaction • Mobile User Interfaces • Design Essentials |
-| **Business & Entrepreneurship** | Business Essentials for Technology Entrepreneurs I • Introduction to Business • Introduction to Personal Finance |
+| **Core Computer Science** | Fundamentals of Data Structures, Design and Analysis of Algorithms, Computer Organization, Introduction to the Theory of Computation |
+| **Programming** | Introduction to Computer Science and Python Programming, Programming for Mobile Computing, Advanced Object Oriented Programming, Software Tools, Introduction to Database Systems, Software Design |
+| **Mathematics** | Applied Calculus I, Applied Calculus II, Applied Linear Algebra, Discrete Mathematics for Computer Science, Introduction to Logic for Computer Science, Elementary Probability |
+| **AI & Advanced Topics** | Introduction to AI and Logic Programming, CS50's Introduction to Artificial Intelligence with Python, CS50's Introduction to Computer Science |
+| **Design & HCI** | User Interfaces, Human-Computer Interaction, Mobile User Interfaces, Design Essentials |
+| **Business & Entrepreneurship** | Business Essentials for Technology Entrepreneurs I, Introduction to Business, Introduction to Personal Finance |
 
 <div align="left" style="margin: 20px 0;">
   <a href="mailto:atmiyajadvani09@gmail.com" style="
