@@ -4,7 +4,7 @@
 
 **Frontend Software Engineer & Designer** | **Toronto, ON** | 🌐 [Portfolio](https://www.atmiya.ca/)
 
-Building fast, scalable web & mobile apps with React, React Native, TypeScript, and modern design. Currently at York University, seeking full-time opportunities starting January 2026.
+Building fast, scalable web & mobile apps with React, React Native, TypeScript, and modern UIUX design. Graduate from York University, seeking full-time opportunities starting January 2026.
 
 **Key Strengths:**
 - Exceptional drive and speed. I work faster than average, debug quickly, seek mentors, push teams to finish
@@ -62,6 +62,7 @@ Building fast, scalable web & mobile apps with React, React Native, TypeScript, 
 
 | Project | Description | Tech Stack | Impact | Status |
 |:--------|:------------|:-----------|:-------|:-------|
+| **Invoce.ai** | AI invoicing. Save time. No bloat. Chat to AI and create invoices and quotes. Collect payments, add services and clients. | Next.js, TypeScript, OpenAI API, Stripe | Streamlined invoicing and payment collection | **Available:** [Web App](https://invoce.ai) |
 | **Prabodham Prasad** | Kitchen planner for teams cooking for large groups | React Native, Node.js, PostgreSQL | Streamlined meal coordination for 50+ team events | **Available:** TestFlight |
 | **ListJoy** | To-do, In-progress, Done Kanban with insights | React Native, TypeScript, Supabase | Improved productivity for 200+ users | **Available:** TestFlight |
 | **SueChef** | Chat-based AI cooking assistant for recipes and meal ideas | Next.js, TypeScript, OpenAI API | Assisted 1,000+ cooking sessions | **Features:** Video demo |
