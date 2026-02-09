@@ -2,9 +2,9 @@
 
 ### Atmiya Jadvani 👋
 
-**Frontend Software Engineer & Designer** | **Toronto, ON** | 🌐 [Portfolio](https://www.atmiya.ca/)
+**Product Designer (AI + UX)** | **Toronto, ON** | 🌐 [Portfolio](https://www.atmiya.ca/)
 
-Building fast, scalable web & mobile apps with React, React Native, TypeScript, and modern UIUX design. Graduate from York University, seeking full-time opportunities starting January 2026.
+Product Designer focused on AI-powered UX. I turn complex workflows into clear, usable interfaces through research, interaction design, and rapid prototyping. Open to full-time Product Designer roles in Toronto.
 
 **Key Strengths:**
 - Exceptional drive and speed. I work faster than average, debug quickly, seek mentors, push teams to finish
@@ -35,12 +35,12 @@ Building fast, scalable web & mobile apps with React, React Native, TypeScript, 
 
 | Category | - |
 |:---------|:-------------|
-| **Programming Languages** | TypeScript, JavaScript, Python, SQL, Java |
-| **Frameworks and Technologies** | React, React Native, Next.js, Node.js, TailwindCSS, REST API, HTML, CSS |
-| **Databases** | PostgreSQL, MySQL, Supabase, MongoDB |
-| **Developer Tools** | Cursor, OpenAI API, Claude API, Git, Github, VS Code, Atlassian Jira, Confluence, Notion, CI/CD, Docker |
-| **Design** | Figma, User Interface Design, User Experience Design, Prototyping, Wireframing |
-| **Soft Skills** | Proactive, Clear communicator, Adaptable, Team-player, Detail oriented |
+| **Design Expertise** | User Interface Design, User Experience Design, Mobile & Web Design, Interaction Design, Visual Design, Information Architecture, Complex Workflows |
+| **Methods** | User Research, Usability Testing, Wireframing, Prototyping, Design Systems |
+| **Tools** | Figma, FigJam, Figma Make, Adobe XD, Framer, Notion, Miro |
+| **Design with AI** | Figma MCP, Figma to Code, ChatGPT, Gemini, Runway ML, V0.dev |
+| **Design Engineering** | TypeScript, React, Next.js, TailwindCSS, HTML, Prompt Engineering, MCP, Agent Skills |
+| **Soft Skills** | Design Thinking, Empathy, Clear Communication, Adaptability, Detail-Oriented |
 
 </div>
 
@@ -48,13 +48,13 @@ Building fast, scalable web & mobile apps with React, React Native, TypeScript, 
 
 ### 🏆 Key Achievements
 
-- **Built apps serving 10K+ users** - Cross-platform applications with scalable architecture
-- **Government internal platform development** - TypeScript features supporting 10+ federal political parties
-- **Co-designed BYJU'S Future School App** - Supported 10M+ live classes and 11K+ educators worldwide
-- **Optimized app performance** - Achieved 25% faster load times with WCAG compliance
-- **Managed 100+ community events** - Event management app with payment processing
-- **AI cooking assistant** - Assisted 1,000+ cooking sessions with recipe recommendations
-- **Perfect AODA compliance** - 100% accessibility standard achievement in government projects
+- **Designed large-scale learning experiences** - Shipped product features at Toppr.com used by **20M+ learners**
+- **Co-designed BYJU'S Future School App** - Supported **10M+ live classes** and **11K+ educators** worldwide
+- **Built scalable design systems** - Standardized components that enabled **30% faster development**
+- **Improved accessibility and UX quality** - Transformed Figma prototypes into production-ready interfaces
+- **Government workflow redesign impact** - Improved internal tooling for **10+ federal political parties**
+- **Cross-functional design leadership** - Supported **5+ initiatives** with UI specs, prototypes, and AI-assisted exploration
+- **Standards-driven design execution** - Applied **AODA and WCAG** best practices in production environments
 
 <hr style="height:1px;border:none;border-top:1px solid #ccc;">
 
@@ -76,27 +76,30 @@ Building fast, scalable web & mobile apps with React, React Native, TypeScript, 
 
 ### 💼 Experience Highlights
 
-**🔧 Programmer Assistant @ York University** (February 2022 - December 2025)
-- Developed cross-platform apps (React Native/React.js) serving **10K+ users** with scalable, high-performance solutions
-- Converted Figma designs to accessible UIs with **25% faster load times**, WCAG compliant
-- Built reusable component libraries and CI/CD pipelines, **reducing development time**
+**🔧 Design Assistant @ York University** (February 2022 - December 2025)
+- Transformed Figma prototypes into production-ready interfaces, improving accessibility and cutting load times
+- Developed reusable UI components to maintain visual consistency and speed up iteration across projects
+- Collaborated with engineers to align design systems with React Native implementation and improve usability
+- Supported **5+ cross-functional initiatives** with UI specs, prototypes, and AI-assisted exploration
+- Ran AI-informed usability checks and improved human-in-the-loop UX and accessibility
 
 **⚡ Junior Programmer @ Treasury Board Secretariat** (September 2023 - December 2023)
-- Built TypeScript features for government platforms supporting **10+ federal parties**
-- Resolved **20+ critical bugs** and optimized performance for system stability
-- Ensured **100% AODA compliance** and met strict government deadlines
+- Designed internal workflows for government tools supporting **10+ federal political parties**
+- Redesigned layouts and interactions from user feedback, reducing navigation time and improving usability
+- Applied AODA and WCAG standards to modernize UI and improve accessibility compliance
 
 **🎨 Product Designer @ Toppr.com** (March 2020 - September 2021)
-- Designed features for **20M+ learners** with scalable design systems
+- Designed features for **20M+ learners** using data-driven testing and iterative UX improvements
+- Created a design system with standardized components, reducing complexity and enabling **30% faster development**
 - Co-designed BYJU'S Future School App (**10M+ live classes, 11K+ educators**)
-- Applied data-driven UX testing resulting in **30% increase in user adoption**
+- Conducted user interviews and usability tests to validate designs, reduce friction, and increase feature adoption
 
 <hr style="height:1px;border:none;border-top:1px solid #ccc;">
 
 ### 🎓 Education
 
-**BSc (Hons) Computer Science** - York University (2021-2025)
-*Graduating December 2025 • Starting full-time work January 2026*
+**Bachelor of Science (Honours), Computer Science** - York University (September 2021 - December 2025)
+*Toronto, ON*
 
 **Relevant Coursework:**
 
@@ -121,6 +124,6 @@ Building fast, scalable web & mobile apps with React, React Native, TypeScript, 
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
     transition: all 0.3s ease;
   ">
-    💬 Let's Connect - Toronto Software Roles Available
+    💬 Let's Connect - Toronto Product Design Roles Available
   </a>
 </div>
