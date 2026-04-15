@@ -62,15 +62,12 @@ Product Designer focused on AI-powered UX. I turn complex workflows into clear, 
 
 | Project | Description | Tech Stack | Impact | Status |
 |:--------|:------------|:-----------|:-------|:-------|
-| **Invoce.ai** | AI invoicing. Save time. No bloat. Chat to AI and create invoices and quotes. Collect payments, add services and clients. | Next.js, TypeScript, OpenAI API, Stripe | Streamlined invoicing and payment collection | **Available:** [Web App](https://invoce.ai) |
 | **Prabodham Prasad** | Kitchen planner for teams cooking for large groups | React Native, Node.js, PostgreSQL | Streamlined meal coordination for 50+ team events | **Available:** TestFlight |
 | **ListJoy** | To-do, In-progress, Done Kanban with insights | React Native, TypeScript, Supabase | Improved productivity for 200+ users | **Available:** TestFlight |
 | **SueChef** | Chat-based AI cooking assistant for recipes and meal ideas | Next.js, TypeScript, OpenAI API | Assisted 1,000+ cooking sessions | **Features:** Video demo |
 | **Spendmo** | Track and manage expenses simply, securely & locally | React Native, SQLite, TypeScript | Enhanced financial tracking for 150+ users | **Available:** TestFlight |
 | **Harmony with Heart** | Community events app for registrations & attendee management | React Native, Supabase, Stripe API | Managed 100+ community events | **Available:** App Store |
 | **Byju's Future School** | Live online classes in coding, math, music, and more | React Native, Educational Platform | Reached 10M+ classes worldwide | **Scale:** 10M+ classes |
-| **MakeResume.app** | Modern resume builder (Concept) with real-time previews | Next.js, TypeScript, PDF Generation | Concept for professional resume creation | **Status:** Concept |
-| **SimplyCanva Agency** | Digital marketing services and custom Canva designs | Marketing, Design Services | Served 10+ business clients | **Service:** Inactive |
 
 <hr style="height:1px;border:none;border-top:1px solid #ccc;">
 
