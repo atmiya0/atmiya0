@@ -2,9 +2,9 @@
 
 ### Atmiya Jadvani 👋
 
-**Product Designer (AI + UX)** | **Toronto, ON** | 🌐 [Portfolio](https://www.atmiya.ca/)
+**Product Designer (AI + UX)** | **Surat, India (Remote)** | 🌐 [Portfolio](https://www.atmiya.ca/)
 
-Product Designer focused on AI-powered UX. I turn complex workflows into clear, usable interfaces through research, interaction design, and rapid prototyping. Open to full-time Product Designer roles in Toronto.
+Product Designer focused on AI-powered UX. I turn complex workflows into clear, usable interfaces through research, interaction design, and rapid prototyping. Available immediately for remote Product Designer roles, or on-site in Surat.
 
 **Key Strengths:**
 - Exceptional drive and speed. I work faster than average, debug quickly, seek mentors, push teams to finish
@@ -68,6 +68,8 @@ Product Designer focused on AI-powered UX. I turn complex workflows into clear, 
 | **Spendmo** | Track and manage expenses simply, securely & locally | React Native, SQLite, TypeScript | Enhanced financial tracking for 150+ users | **Available:** TestFlight |
 | **Harmony with Heart** | Community events app for registrations & attendee management | React Native, Supabase, Stripe API | Managed 100+ community events | **Available:** App Store |
 | **Byju's Future School** | Live online classes in coding, math, music, and more | React Native, Educational Platform | Reached 10M+ classes worldwide | **Scale:** 10M+ classes |
+| **Sheetsbase** | AI extension for Google Sheets | - | - | **Deprecated** |
+| **Invoce.ai** | AI-powered invoicing | - | - | **Deprecated** |
 
 <hr style="height:1px;border:none;border-top:1px solid #ccc;">
 
@@ -96,7 +98,7 @@ Product Designer focused on AI-powered UX. I turn complex workflows into clear, 
 ### 🎓 Education
 
 **Bachelor of Science (Honours), Computer Science** - York University (September 2021 - December 2025)
-*Toronto, ON*
+*Toronto, ON, Canada*
 
 **Relevant Coursework:**
 
@@ -121,6 +123,6 @@ Product Designer focused on AI-powered UX. I turn complex workflows into clear, 
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
     transition: all 0.3s ease;
   ">
-    💬 Let's Connect - Toronto Product Design Roles Available
+    💬 Let's Connect - Remote Product Design Roles Available
   </a>
 </div>
